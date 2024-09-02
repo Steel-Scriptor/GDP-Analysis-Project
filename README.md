@@ -1,0 +1,2 @@
+# GDP-Analysis-Project
+Conducted a comprehensive data analysis project on global GDP trends to assess economic growth and standard of living across multiple countries, utilizing historical data to compare GDP growth rates.
